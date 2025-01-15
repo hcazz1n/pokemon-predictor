@@ -1,1 +1,1 @@
-# temporary_name
+Simple implementation of building and training a model to determine a user's preferred primary and secondary type of Pokemon based on their age and gender randomly generated into the CSV using a python script.
